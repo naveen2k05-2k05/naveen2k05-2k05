@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Naveen  
 
-<!--
-**naveen2k05-2k05/naveen2k05-2k05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning AI & ML
+- 💻 I work with Python, SQL, and Web Development  
+- 🎯 Portfolio: [My Portfolio](https://my-portfolio-naveen-2k05.netlify.app/)  
+- 📫 Reach me at: naveenr2k05@gmail.com  
 
-Here are some ideas to get you started:
+## 🚀 Skills  
+- Python | Pandas | SQL | NumPy 
+- HTML | CSS | JavaScript  
+- Flask | Django | Data Analysis  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile/)  
