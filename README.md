@@ -7,7 +7,7 @@
 - 📫 Reach me at: naveenr2k05@gmail.com  
 
 ## 🚀 Skills  
-- Python | SQL | Pandas | NumPy 
+- Python | SQL | Pandas | NumPy | Scikit-Learn
 - HTML | CSS | JavaScript | Bootstrap | React
 - Django | TensorFlow | Flask
 
