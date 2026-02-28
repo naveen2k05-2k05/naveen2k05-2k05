@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning AI & ML
 - 💻 I work with Python, SQL, and Web Development  
-- 🎯 Portfolio: [My Portfolio]((https://naveen-portfolio-7541c.web.app/))  
+- 🎯 Portfolio: [My Portfolio](https://naveen-portfolio-7541c.web.app/)  
 - 📫 Reach me at: naveenr2k05@gmail.com  
 
 ## 🚀 Skills  
