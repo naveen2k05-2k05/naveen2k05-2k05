@@ -7,11 +7,6 @@
 - 📫 Reach me at: naveenr2k05@gmail.com  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveen2k05-2k05&show_icons=true&theme=dark&hide_border=true&rank_icon=github" height="165" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen2k05-2k05&layout=compact&theme=dark&hide_border=true" height="165" alt="Most Used Languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=naveen2k05-2k05&theme=dark&hide_border=true" width="70%" alt="GitHub Contribution Streak" />
 </p>
 
