@@ -26,18 +26,7 @@
 
 ---
 
----
-
-## 🚀 Skills
-
-- **Languages:** Python, Java, JavaScript, SQL, HTML/CSS
-- **Frameworks:** Node.js, Flask, FastAPI, TensorFlow, LangChain
-- **Databases:** MySQL, SQLite, MongoDB
-- **Developer Tools:** Ollama, Git, Docker, Figma, VS Code
-- **Libraries:** React.js, Pandas, NumPy, Matplotlib, Keras, Scikit-learn, FAISS
----
-
-Technology Stack
+## Technology Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,bootstrap,react,nodejs,flask,fastapi,tensorflow,mysql,sqlite,mongodb,git,docker,figma,vscode&perline=9" alt="Technology stack icons" />
@@ -61,20 +50,6 @@ Technology Stack
   <a href="https://www.netlify.com/">
     <img src="https://img.shields.io/badge/Netlify-Deployment-00C7B7?style=for-the-badge&amp;logo=netlify&amp;logoColor=white" alt="Netlify" />
   </a>
-</p>
-
----
-
-## 🛠️ IDEs &amp; Tools
-
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="45" height="45" alt="Visual Studio Code" />
-  <img src="https://img.icons8.com/color/48/000000/pycharm.png" width="45" height="45" alt="PyCharm" />
-  <img src="https://img.icons8.com/color/48/000000/git.png" width="45" height="45" alt="Git" />
-  <img src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png" width="45" height="45" alt="Adobe Photoshop" />
-  <img src="https://img.icons8.com/color/48/000000/figma--v1.png" width="45" height="45" alt="Figma" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&amp;logo=netlify&amp;logoColor=white" height="30" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&amp;logo=Adobe%20XD&amp;logoColor=white" height="30" alt="Adobe XD" />
 </p>
 
 ---
