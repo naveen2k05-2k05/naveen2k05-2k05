@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Naveen
 
-<table>
-  <tr>
-    <td valign="middle" width="60%">
-      <p>I'm an Information Technology graduate passionate about building practical software solutions, exploring Machine Learning, and solving Data Structures &amp; Algorithms problems.</p>
-      <p>🤖 Exploring Machine Learning, Deep Learning, and Generative AI</p>
-      <p>🧠 Practicing Data Structures &amp; Algorithms with Python</p>
-      <p>🔍 Building projects involving RAG, AI applications, and backend development</p>
-    </td>
-    <td valign="middle" width="40%" align="center">
-      <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="100%" alt="Developer working at a computer" />
-    </td>
-  </tr>
-</table>
+<img align="right" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="220" alt="Developer animation" />
+
+**IT Graduate | Aspiring AI/ML Engineer | Software Developer**
+
+I build practical software solutions that transform complex problems into intelligent, scalable applications. I'm passionate about Machine Learning, Generative AI, and developing efficient solutions to real-world challenges.
+
+🤖 **AI & Machine Learning** — Exploring Deep Learning, Generative AI, and intelligent systems.
+
+🧠 **Problem-Solving** — Strengthening Data Structures & Algorithms skills using Python.
+
+🔍 **AI Application Development** — Building RAG pipelines, LLM-powered applications, and robust backend systems.
+
+<br clear="right" />
 
 ---
 
@@ -41,7 +41,7 @@
 ## 💻 Technology Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,bootstrap,react,nodejs,flask,fastapi,tensorflow,mysql,sqlite,mongodb,git,docker,figma,vscode&perline=9" alt="Technology stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,bootstrap,react,nodejs,flask,fastapi,tensorflow,mysql,sqlite,mongodb,git,docker,figma,vscode&amp;perline=9" alt="Technology stack icons" />
 </p>
 
 ---
@@ -65,6 +65,8 @@
     <img src="https://img.shields.io/badge/Netlify-Deployment-00C7B7?style=for-the-badge&amp;logo=netlify&amp;logoColor=white" alt="Netlify" />
   </a>
 </p>
+
+---
 
 ## 🔗 Connect With Me
 
