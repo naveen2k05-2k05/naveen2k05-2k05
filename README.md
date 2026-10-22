@@ -4,11 +4,15 @@
 - 🌱 I’m currently learning AI & ML
 - 💻 I work with Python, SQL, and Web Development  
 - 🎯 Portfolio: [My Portfolio](https://naveen-portfolio-7541c.web.app/)  
-- 📫 Reach me at: naveenr2k05@gmail.com  
+- 📫 Reach me at: naveenr2k05@gmail.com
+- 
+## 🧩 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/naveen2k05-2k05?theme=dark&font=Baloo&ext=heatmap" width="70%" alt="LeetCode Statistics" />
+  <img src="https://leetcard.jacoblin.cool/naveen2k05-2k05?theme=dark&font=Baloo&ext=heatmap" alt="Naveen's LeetCode Stats" />
 </p>
+
+
 
 ## 🚀 Skills  
 - Python | SQL | Pandas | NumPy | Scikit-Learn
