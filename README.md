@@ -37,20 +37,30 @@
 - **Libraries:** React.js, Pandas, NumPy, Matplotlib, Keras, Scikit-learn, FAISS
 ---
 
-## 💻 Languages &amp; Technologies
+Technology Stack
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/python.png" width="45" height="45" alt="Python" />
-  <img src="https://img.icons8.com/color/48/sql.png" width="45" height="45" alt="SQL" />
-  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="45" height="45" alt="Pandas" />
-  <img src="https://numpy.org/images/logo.svg" width="45" height="45" alt="NumPy" />
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="45" height="45" alt="Java" />
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" width="45" height="45" alt="HTML5" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" width="45" height="45" alt="CSS3" />
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="45" height="45" alt="Bootstrap" />
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" width="45" height="45" alt="JavaScript" />
-  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" width="45" height="45" alt="TensorFlow" />
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" width="45" height="45" alt="React" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,bootstrap,react,nodejs,flask,fastapi,tensorflow,mysql,sqlite,mongodb,git,docker,figma,vscode&perline=9" alt="Technology stack icons" />
+</p>
+
+🛠️ Development Environment
+
+<p align="center">
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VS%20Code-Development%20Environment-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" alt="VS Code" />
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/">
+    <img src="https://img.shields.io/badge/PyCharm-Python%20IDE-21D789?style=for-the-badge&amp;logo=pycharm&amp;logoColor=white" alt="PyCharm" />
+  </a>
+  <a href="https://ollama.com/">
+    <img src="https://img.shields.io/badge/Ollama-Local%20LLMs-111111?style=for-the-badge&amp;logo=ollama&amp;logoColor=white" alt="Ollama" />
+  </a>
+  <a href="https://www.figma.com/">
+    <img src="https://img.shields.io/badge/Figma-UI%2FUX%20Design-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma" />
+  </a>
+  <a href="https://www.netlify.com/">
+    <img src="https://img.shields.io/badge/Netlify-Deployment-00C7B7?style=for-the-badge&amp;logo=netlify&amp;logoColor=white" alt="Netlify" />
+  </a>
 </p>
 
 ---
