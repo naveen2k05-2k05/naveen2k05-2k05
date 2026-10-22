@@ -1,18 +1,16 @@
 # 👋 Hi, I'm Naveen
 
-<table>
-  <tr>
-    <td valign="middle" width="60%">
-      <p>I'm an Information Technology graduate passionate about building practical software solutions, exploring Machine Learning, and solving Data Structures &amp; Algorithms problems.</p>
-      <p>🤖 Exploring Machine Learning, Deep Learning, and Generative AI</p>
-      <p>🧠 Practicing Data Structures &amp; Algorithms with Python</p>
-      <p>🔍 Building projects involving RAG, AI applications, and backend development</p>
-    </td>
-    <td valign="middle" width="40%" align="center">
-      <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="100%" alt="Developer working at a computer" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="220" alt="Developer animation" />
+</p>
+
+**IT Graduate | Aspiring AI/ML Engineer | Software Developer**
+
+I build practical software solutions that turn complex problems into scalable, intelligent applications. I'm passionate about Machine Learning, Generative AI, and writing efficient code to solve real-world challenges.
+
+- 🤖 **AI & Machine Learning:** Exploring Deep Learning, Generative AI, and intelligent systems.
+- 🧠 **Problem-Solving:** Strengthening Data Structures & Algorithms skills with Python.
+- 🔍 **AI Application Development:** Building RAG pipelines, LLM-powered solutions, and backend systems.
 
 ---
 
