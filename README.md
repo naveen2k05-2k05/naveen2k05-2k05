@@ -7,7 +7,7 @@ I’m a Information Technology graduate passionate about building practical soft
 
 🧠 Practicing Data Structures & Algorithms with Python
 
-🔍 Building projects involving RAG, AI applications, and backend development
+🔍 Building projects involving RAG, AI applications, and backend development.
 
 ## 🧩 LeetCode Stats
 
@@ -16,7 +16,6 @@ I’m a Information Technology graduate passionate about building practical soft
     <img src="https://leetcard.jacoblin.cool/Shady2k05?theme=dark&font=Baloo&ext=heatmap" alt="Shady2k05 LeetCode Stats" width="500" />
   </a>
 </p>
-
 ---
 
 ## 🚀 Skills  
