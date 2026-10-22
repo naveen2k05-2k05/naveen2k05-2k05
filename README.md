@@ -30,11 +30,11 @@
 
 ## 🚀 Skills
 
-- **Programming &amp; Data:** Python, SQL, Pandas, NumPy, Scikit-learn, Java
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap, React, TypeScript
-- **AI &amp; Machine Learning:** TensorFlow, Keras, RAG, LLMs, OpenCV, FAISS
-- **Backend Development:** Django, Flask
-
+- **Languages:** Python, Java, JavaScript, SQL, HTML/CSS
+- **Frameworks:** Node.js, Flask, FastAPI, TensorFlow, LangChain
+- **Databases:** MySQL, SQLite, MongoDB
+- **Developer Tools:** Ollama, Git, Docker, Figma, VS Code
+- **Libraries:** React.js, Pandas, NumPy, Matplotlib, Keras, Scikit-learn, FAISS
 ---
 
 ## 💻 Languages &amp; Technologies
@@ -90,5 +90,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=100&amp;section=footer" width="100%" alt="Decorative footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00C9FF,50:92FE9D,100:FC466B&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%" alt="Animated gradient footer" />
 </p>
