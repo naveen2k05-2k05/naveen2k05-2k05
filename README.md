@@ -5,14 +5,16 @@
 - 💻 I work with Python, SQL, and Web Development  
 - 🎯 Portfolio: [My Portfolio](https://naveen-portfolio-7541c.web.app/)  
 - 📫 Reach me at: naveenr2k05@gmail.com
-- 
+
 ## 🧩 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/naveen2k05-2k05?theme=dark&font=Baloo&ext=heatmap" alt="Naveen's LeetCode Stats" />
+  <a href="https://leetcode.com/u/Shady2k05/">
+    <img src="https://leetcard.jacoblin.cool/Shady2k05?theme=dark&font=Baloo&ext=heatmap" alt="Shady2k05 LeetCode Stats" width="500" />
+  </a>
 </p>
 
-
+---
 
 ## 🚀 Skills  
 - Python | SQL | Pandas | NumPy | Scikit-Learn
