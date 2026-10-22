@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Naveen  
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-I’m a Computer Science graduate passionate about building practical software solutions, exploring Machine Learning, and solving Data Structures & Algorithms problems.
+I’m a Information Technology graduate passionate about building practical software solutions, exploring Machine Learning, and solving Data Structures & Algorithms problems.
 
 🤖 Exploring Machine Learning, Deep Learning, and Generative AI
 
@@ -20,9 +20,9 @@ I’m a Computer Science graduate passionate about building practical software s
 ---
 
 ## 🚀 Skills  
-- Python | SQL | Pandas | NumPy | Scikit-Learn
-- HTML | CSS | JavaScript | Bootstrap | React
-- Django | TensorFlow | Flask
+- Python | SQL | Pandas | NumPy | Scikit-Learn | Keras
+- HTML | CSS | JavaScript | Bootstrap | React | TypeScript
+- Django | TensorFlow | Flask | RAG | LLM | Open CV | FAISS
 
 
 ### I code in
