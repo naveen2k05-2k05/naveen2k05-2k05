@@ -32,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,bootstrap,react,nodejs,flask,fastapi,tensorflow,mysql,sqlite,mongodb,git,docker,figma,vscode&perline=9" alt="Technology stack icons" />
 </p>
 
-🛠️ Development Environment
+ ## Development Environment
 
 <p align="center">
   <a href="https://code.visualstudio.com/">
