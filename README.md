@@ -1,18 +1,21 @@
 # 👋 Hi, I'm Naveen
 
-<img align="right" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="220" alt="Developer animation" />
+<table>
+  <tr>
+    <td width="68%" valign="middle">
+      <p><strong>IT Graduate | Aspiring AI/ML Engineer | Software Developer</strong></p>
+      <p>I build practical software solutions that transform complex problems into intelligent, scalable applications. I'm passionate about Machine Learning, Generative AI, and developing efficient solutions to real-world challenges.</p>
+      <p>🤖 <strong>AI &amp; Machine Learning</strong><br/>Exploring Deep Learning, Generative AI, and intelligent systems.</p>
+      <p>🧠 <strong>Problem-Solving</strong><br/>Strengthening Data Structures &amp; Algorithms skills using Python.</p>
+      <p>🔍 <strong>AI Application Development</strong><br/>Building RAG pipelines, LLM-powered applications, and robust backend systems.</p>
+    </td>
+    <td width="32%" align="center" valign="middle">
+      <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="250" alt="Developer animation"/>
+    </td>
+  </tr>
+</table>
 
-**IT Graduate | Aspiring AI/ML Engineer | Software Developer**
-
-I build practical software solutions that transform complex problems into intelligent, scalable applications. I'm passionate about Machine Learning, Generative AI, and developing efficient solutions to real-world challenges.
-
-🤖 **AI & Machine Learning** — Exploring Deep Learning, Generative AI, and intelligent systems.
-
-🧠 **Problem-Solving** — Strengthening Data Structures & Algorithms skills using Python.
-
-🔍 **AI Application Development** — Building RAG pipelines, LLM-powered applications, and robust backend systems.
-
-<br clear="right" />
+---
 
 ---
 
