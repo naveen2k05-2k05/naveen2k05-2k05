@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/Shady2k05/">
-    <img src="https://leetcard.jacoblin.cool/Shady2k05?theme=dark&amp;font=Baloo&amp;ext=heatmap" width="350" alt="Shady2k05 LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/Shady2k05?theme=dark&amp;font=Baloo&amp;ext=heatmap" width="420" alt="Shady2k05 LeetCode Stats" />
   </a>
 </p>
 
