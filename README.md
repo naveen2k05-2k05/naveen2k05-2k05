@@ -7,10 +7,6 @@
 - 📫 Reach me at: naveenr2k05@gmail.com  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=naveen2k05-2k05&theme=dark&hide_border=true" width="70%" alt="GitHub Contribution Streak" />
-</p>
-
-<p align="center">
   <img src="https://leetcard.jacoblin.cool/naveen2k05-2k05?theme=dark&font=Baloo&ext=heatmap" width="70%" alt="LeetCode Statistics" />
 </p>
 
