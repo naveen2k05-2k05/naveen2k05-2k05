@@ -26,18 +26,6 @@ I build practical software solutions that transform complex problems into intell
 
 ---
 
-## 🚀 Technical Skills
-
-| Category | Technologies |
-|---|---|
-| **Languages** | Python, Java, JavaScript, SQL, HTML/CSS |
-| **Frameworks** | Node.js, Flask, FastAPI, TensorFlow, LangChain |
-| **Databases** | MySQL, SQLite, MongoDB |
-| **Libraries** | React.js, Pandas, NumPy, Matplotlib, Keras, Scikit-learn, FAISS |
-| **Developer Tools** | Ollama, Git, Docker, Figma, VS Code |
-
----
-
 ## 💻 Technology Stack
 
 <p align="center">
