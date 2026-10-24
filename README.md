@@ -58,7 +58,7 @@ I build practical software solutions that transform complex problems into intell
 
 ## 🔗 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/naveen-r-9070a9284/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
