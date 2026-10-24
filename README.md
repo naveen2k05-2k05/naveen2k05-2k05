@@ -68,11 +68,8 @@ I build practical software solutions that transform complex problems into intell
   <a href="mailto:naveenr2k05@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
   </a>
-  <a href="tel:+919884347107">
-    <img src="https://img.shields.io/badge/Phone-%2B91%209884347107-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" alt="Phone" />
-  </a>
 </p>
----
+
 
 <p align="center">
   <i>Driven to learn. Focused on building. Ready to innovate.</i>
